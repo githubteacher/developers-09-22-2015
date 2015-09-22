@@ -6,3 +6,4 @@
 
 **Location:** Milwaukee, WI
 
+**Favorite Vacation Spot:** Darmstadt, Germany
