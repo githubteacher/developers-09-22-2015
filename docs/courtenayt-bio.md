@@ -2,6 +2,6 @@
 
 **Name:** Courtenay Teska
 
-**Occupation:** Test Auomation Enginner/Architect
+**Occupation:** Test Auomation Engineer/Architect
  
 **Location:** Milwaukee, WI
