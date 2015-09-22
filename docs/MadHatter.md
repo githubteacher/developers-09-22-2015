@@ -4,4 +4,4 @@
 
 **Occupation:** Engineer
 
-**Location:** Milwaukee
+**Location:** Milwaukee, WI USA
