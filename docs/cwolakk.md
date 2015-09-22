@@ -2,6 +2,6 @@
 
 **Name:** Katie
 
-**Occupation:** Technical Writer
+**Occupation:** Technical Writer, System Configuration Tool
 
 **Location:** Milwaukee
