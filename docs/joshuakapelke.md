@@ -5,4 +5,6 @@
 
 **Occupation:** Software Developer
 
-**Location** Milwaukee, WI 
+**Location:** Milwaukee, WI 
+
+**College:** MSOE
