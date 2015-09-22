@@ -4,4 +4,6 @@
 
 **Occupation: ** Developer (wireless project)
 
-**Location: ** West Bend
+**Location: ** West Bend, WI, USA
+
+Favorite Vacation Spot:  San Francisco, CA, USA.
