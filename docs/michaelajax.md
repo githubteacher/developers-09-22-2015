@@ -2,6 +2,6 @@
 
 **Name:** Mike Ajax
 
-**Occupation:** Engineer
+**Occupation:** Controls Engineer
 
 **Location** Milwaukee
