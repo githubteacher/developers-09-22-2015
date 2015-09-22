@@ -4,4 +4,6 @@
 
 **Occupation:** Engineer
 
-**Location:** Milwaukee
+**Location:** Milwaukee, WI
+
+**Favorite Vacation Spot:** Silver Lake, MI
