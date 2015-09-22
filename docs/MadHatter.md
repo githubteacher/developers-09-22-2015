@@ -6,4 +6,4 @@
 
 **Location:** Milwaukee, WI USA
 
-**Recreation Activity:** SCCA Racing
+**Recreation Activity:** SCCA (Sports Car Club of America) Racing
