@@ -1,4 +1,4 @@
-# GitHub LostThought
+# LostThought
 
 **Name:** LostThought
 
