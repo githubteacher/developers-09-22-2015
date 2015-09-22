@@ -5,3 +5,5 @@
 **Occupation:** Software Developer
 
 **Location:** Gurgaon, India
+
+**Favourite Location:** Maldives
