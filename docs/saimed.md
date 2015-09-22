@@ -4,4 +4,6 @@
 
 **Occupation: ** Dev
 
-**Location: ** Milwaukee. WI. USA
+**Location: ** Milwaukee. WI. USA, Earth
+
+**Favorite vacation spot: Brazil
