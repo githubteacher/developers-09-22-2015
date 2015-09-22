@@ -6,4 +6,4 @@
 
 **Location:** 507 E. Michigan Street, Milwaukee, Wisconsin
 
-**Favorite Vacation Spot:** Riviera Maya
+**Favorite Vacation Spot:** Riviera Maya, Mexico
