@@ -4,4 +4,6 @@
 
 **Occupation:** Test Engineer
 
-**Location:** Milwaukee, WI 
+**Location:** Milwaukee, WI
+
+""Vacation Spot:"" Anywhery
