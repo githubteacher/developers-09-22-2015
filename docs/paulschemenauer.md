@@ -6,4 +6,4 @@
 
 **Location:** Milwaukee, Wisconsin
 
-**Favorite Vacation Spot:** Devil's Lake
+**Favorite Vacation Spot:** Devil's Lake, WI
