@@ -1,7 +1,5 @@
 - Name: Paul
 - Occupation: Engineer
-- Location: Milwaukee
+- Location: Milwaukee, **WI**
 
-:heavy_dollar_sign:
-:red_circle:
-:trident:
+:black_circle: :red_circle: :white_circle:
