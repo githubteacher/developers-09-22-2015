@@ -6,4 +6,4 @@
 
 **Location:** Milwaukee, WI
 
-""Vacation Spot:"" Anywhery
+""Vacation Spot:"" Anywhere!!!
