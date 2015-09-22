@@ -6,4 +6,6 @@
 
 **Location: ** Milwaukee. WI. USA, Earth
 
-**Favorite vacation spot: Brazil
+**Favorite vacation spot: UP
+
+** 
