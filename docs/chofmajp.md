@@ -1,6 +1,6 @@
 # chofmajp
 
-**Name:** Justin Hofmann
+**Name:** chofmajp
 
 **Occupation:** Engineer
 
