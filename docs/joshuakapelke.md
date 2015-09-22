@@ -1,5 +1,5 @@
 
-# Joshua Kapelke Bio
+# Joshua Kapelke's Bio
 
 **Name:** Joshua Kapelke
 
