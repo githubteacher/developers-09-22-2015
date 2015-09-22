@@ -4,4 +4,5 @@
 
 **Occupation:** Software Engineer
 
-**Location:** Milwaukee
+**Location:** Milwaukee, WI
+
