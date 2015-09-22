@@ -4,4 +4,4 @@
 
 **Occupation: ** Dev
 
-**Location: ** MKE
+**Location: ** Milwaukee. WI
