@@ -5,3 +5,5 @@
 **Occupation:** Engineer
 
 **Location:** Near elevator
+
+**Favorite Vacation Spot:** Palapa
