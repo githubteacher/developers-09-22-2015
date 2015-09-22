@@ -1,6 +1,6 @@
 # LostThought
 
-**Name:** LostThought
+**Name:** Bad Jennifer
 
 **Ocupation:** Engineer
 
