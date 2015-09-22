@@ -6,4 +6,4 @@
 
 **Location:** JCI
 
-**Favorite Vacation Spot:** Somewhere sunny
+**Favorite Vacation Spot:** Somewhere sunny or snowy
