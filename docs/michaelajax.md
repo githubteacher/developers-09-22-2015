@@ -6,4 +6,4 @@
 
 **Location** Milwaukee
 
-**Favorite Vacation Spot:** Nashville
+**Favorite Vacation Spot:** Nashville, TN
