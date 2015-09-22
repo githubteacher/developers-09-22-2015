@@ -4,4 +4,4 @@
 
 **Ocupation:** Research Engineer at Johnson Controls
 
-**Location:** Milwaukee, Wisconsin
+**Location:** 507 E. Michigan Street, Milwaukee, Wisconsin
