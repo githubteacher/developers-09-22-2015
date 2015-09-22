@@ -2,6 +2,6 @@
 
 **Name:** Courtenay Teska
 
-**Occupation:** Test Auomation Engineer/Architect
+**Occupation:** Test Automation Engineer/Architect
  
 **Location:** Milwaukee, WI
