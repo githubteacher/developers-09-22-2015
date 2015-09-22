@@ -5,3 +5,5 @@
 **Occupation:** Engineer
 
 **Location:** Milwaukee
+
+**Favorite Vacation Spot:** Michigan
