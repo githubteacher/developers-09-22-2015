@@ -3,3 +3,5 @@
 - Location: Milwaukee
 
 :heavy_dollar_sign:
+:red_circle:
+:trident:
