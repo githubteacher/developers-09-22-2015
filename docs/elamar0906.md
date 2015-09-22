@@ -2,4 +2,4 @@
 
 **Occupation:** Student
 
-**Location:** Cayman Islands
+**Location:** Thailand
