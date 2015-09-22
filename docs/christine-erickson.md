@@ -4,4 +4,4 @@
 
 **Occupation: Firmware Engineer**
 
-**Location: Milwaukee**
+**Location: Milwaukee, WI**
