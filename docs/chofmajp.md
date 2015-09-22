@@ -6,4 +6,4 @@
 
 **Location:** Milwaukee, WI
 
-**Favorite Vacation Spot:** Silver Lake, Michigan
+**Favorite Vacation Spot:** Silver Lake, MI
