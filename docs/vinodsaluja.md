@@ -4,4 +4,4 @@
 
 **Occupation:** Software Developer
 
-**Location:** Gurgaon
+**Location:** Gurgaon, India
