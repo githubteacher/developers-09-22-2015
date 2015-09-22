@@ -6,4 +6,4 @@
 
 **Location: Milwaukee, WI**
 
-**Favorite Vacation Spot: Anywhere with a beach**
+**Favorite Vacation Spot: Kauai, HI**
